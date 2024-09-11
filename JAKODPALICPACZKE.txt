@@ -1,0 +1,15 @@
+NODE V20
+
+
+
+setup .env variables for backend and frontend
+
+backend
+0. npm i
+1. npx prisma generate
+2. npm run seed
+3. npm run dev
+
+frontend 
+0. npm i
+1. npm run dev
